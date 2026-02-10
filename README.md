@@ -34,9 +34,11 @@ Flutter, Next.js, NestJS를 기반으로 개발하고 있는 풀스택 개발자
 <div align="center">
 
 궁금한 점이나 프로젝트 문의, 협업 제안 언제든 환영입니다 🙂
+
 기술 이야기나 구조 고민도 편하게 나눠요.
 
 📩 pathetic.sim@gmail.com
+
 🌐 [joseph88dev.com](https://www.joseph88dev.com)
 
 </div>
