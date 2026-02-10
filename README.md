@@ -3,7 +3,6 @@
 **Q.** 간단히 자기소개 부탁드릴게요.
 
 Flutter, Next.js, NestJS를 기반으로 개발하고 있는 풀스택 개발자 조셉88입니다.
-
 기획부터 프론트엔드, 백엔드, 앱 개발까지 혼자서 전반적인 과정을 모두 경험해왔어요. 화려한 포트폴리오보다는, 실제로 안정적으로 운영되고 사용자 경험이 좋은 서비스를 만드는 데 더 집중하는 편입니다.
 
 ---
@@ -37,6 +36,6 @@ Flutter, Next.js, NestJS를 기반으로 개발하고 있는 풀스택 개발자
 
 📩 pathetic.sim@gmail.com
 
-🌐 [joseph88dev.com](https://www.joseph88dev.com)
+🌐 [HALF DEV](https://www.joseph88dev.com)
 
 </div>
