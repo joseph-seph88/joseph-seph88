@@ -1,16 +1,42 @@
-## Hi there 👋
+# 조셉88
 
-<!--
-**joseph-seph88/joseph-seph88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Q.** 간단히 자기소개 부탁드릴게요.
 
-Here are some ideas to get you started:
+Flutter, Next.js, NestJS를 기반으로 개발하고 있는 풀스택 개발자 조셉88입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+기획부터 프론트엔드, 백엔드, 앱 개발까지 혼자서 전반적인 과정을 모두 경험해왔어요. 화려한 포트폴리오보다는, 실제로 안정적으로 운영되고 사용자 경험이 좋은 서비스를 만드는 데 더 집중하는 편입니다.
+
+---
+
+**Q.** 코드 구조나 설계는 어떻게 가져가는 편인가요?
+
+**설계** — 기본적으로 Feature 기반 설계를 중심으로 작업하고, 프로젝트 규모에 맞게 아키텍처를 조정합니다.
+
+**코드 스타일** — 백본형 스타일을 선호해요. 핵심 로직은 메인에 두고, 나머지는 분리해서 관리하는 방식이 저는 가장 편하고 좋더라고요.
+
+---
+
+**Q.** 개발할 때 특히 신경 쓰는 부분이 있다면요?
+
+**네이밍** — 디렉토리 구조나 파일, 메서드 네이밍에 많이 신경 쓰는 편입니다. 처음 보는 사람도 바로 이해할 수 있어야, 미래의 저와 동료 모두가 편해질 수 있다고 생각해요.
+
+**소통** — 더 효율적인 구조와 좋은 로직에 대해 이야기하는 걸 좋아해요.
+다른 사람의 관점으로 바라보면, 생각하지 못했던 것들이 보일 때가 있거든요.
+
+---
+
+**Q.** 깃허브에 공개된 코드가 많지 않은데, 이유가 있을까요?
+
+운영 중인 서비스 코드는 대부분 Private으로 관리하고 있습니다. 보안과 클라이언트 정책상 공개가 어려운 경우가 많아요. 그래서 공개 저장소 관리에 상대적으로 신경을 많이 쓰지 못한 편입니다.
+
+---
+
+<div align="center">
+
+궁금한 점이나 프로젝트 문의, 협업 제안 언제든 환영입니다 🙂
+기술 이야기나 구조 고민도 편하게 나눠요.
+
+📩 pathetic.sim@gmail.com
+🌐 [joseph88dev.com](https://www.joseph88dev.com)
+
+</div>
